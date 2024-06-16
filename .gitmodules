@@ -1,0 +1,6 @@
+[submodule "BackendApi"]
+	path = BackendApi
+	url = https://github.com/dcardenasa09/DockerApi.git
+[submodule "FrontendApi"]
+	path = FrontendApi
+	url = https://github.com/dcardenasa09/DockerFront.git
