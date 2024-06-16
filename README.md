@@ -1,6 +1,11 @@
 # Aplicación Web (.Net 8 / React JS)
 Esta Aplicación Web consta de dos peoryectos, uno en .Net 8 para el backend y el otro desarrollado en React JS para la parte del frontend
 
+[!WARNING]
+> ## Clonar el repositorio principal
+> Este repositorio contiene submódulos, hay que clonar el repositorio con:
+> - git clone --recursive https://github.com/dcardenasa09/DockerApp.git
+
 > [!IMPORTANT]
 > Puedes acceder a la aplicacion con el siguiente usuario y contraseña:
 > - admin@test.com
